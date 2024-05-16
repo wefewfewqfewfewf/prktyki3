@@ -1,0 +1,58 @@
+body {
+    background: rgb(44, 42, 157);
+    background: linear-gradient(45deg, rgba(44, 42, 157, 1) 18%, rgba(20, 172, 214, 1) 50%, rgba(12, 20, 168, 1) 75%, #2c2a9d 83%);
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-size: 14px !important;
+}
+
+div {
+    height: 100%;
+    margin: auto;
+    font-size: 18px;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+    margin: auto;
+}
+
+
+button {
+    border: 3px;
+    border-radius: 20px !important;
+  
+}
+
+.lewo {
+    float: left;
+    width: 70%;
+}
+
+.prawo {
+    float: right;
+    width: 30%;
+    text-align: right;
+}
+
+.card {
+    border: 2px solid red;
+    padding: 20px;
+    margin: 20px 0;
+    font-size: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px red;
+ 
+}
+
+.prof {
+    height: 80px;
+    width: 70px;}
+.modal-content{
+    height:300px;
+    width: 250px;
+}
+
